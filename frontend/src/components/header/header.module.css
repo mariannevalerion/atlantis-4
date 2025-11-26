@@ -1,0 +1,19 @@
+.title {
+    font-family: "Roboto Slab", serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #003049;
+}
+
+.subTitle {
+    font-family: "Roboto Slab", serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #034e4d;
+    transition: color .2s ease-in-out;
+}
+
+.active {
+    color: #0fa6e1;
+    font-weight: 700;
+}
