@@ -23,7 +23,7 @@ Node.js (versão 20 ou superior)
 
 npm (vem com o Node.js)
 
-🔧 Instalação
+## 🔧 Instalação
 
 Clone o repositório ou navegue até a pasta do projeto:
 
